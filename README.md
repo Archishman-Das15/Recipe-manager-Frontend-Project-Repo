@@ -12,7 +12,7 @@ Built using **React + TailwindCSS** on the frontend and **FastAPI + MySQL** on t
 ✅ Responsive modern UI built with TailwindCSS  
 ✅ MySQL database integration  
 ✅ CORS-enabled backend for smooth frontend communication  
-✅ Deployed on Vercel + Render (recommended)
+✅ Deployed on Vercel + Railway
 
 ---
 
