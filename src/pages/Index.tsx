@@ -22,6 +22,7 @@ const Index = () => {
     fetchRecipes();
   }, []);
 
+  
   const fetchRecipes = async () => {
     try {
       setLoading(true);

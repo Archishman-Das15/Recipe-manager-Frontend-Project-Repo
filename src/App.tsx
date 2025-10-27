@@ -7,7 +7,7 @@ import Index from "./pages/Index";
 import AddRecipe from "./pages/AddRecipe";
 import Login from "./pages/Login";
 import NotFound from "./pages/NotFound";
-
+import Footer from "./components/Footer";
 const queryClient = new QueryClient();
 
 const App = () => (

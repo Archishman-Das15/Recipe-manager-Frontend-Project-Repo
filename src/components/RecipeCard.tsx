@@ -58,4 +58,5 @@ const RecipeCard = ({ name, ingredients, instructions, imageUrl, createdAt }: Re
   );
 };
 
+
 export default RecipeCard;

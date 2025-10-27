@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="flex items-center gap-2 text-muted-foreground">
             <span>Made with</span>
             <Heart className="w-4 h-4 fill-primary text-primary animate-pulse" />
-            <span>for food lovers</span>
+            <span>by Archishman Das</span>
           </div>
           <p className="text-sm text-muted-foreground">
             © {new Date().getFullYear()} Recipe Management System. All rights reserved.

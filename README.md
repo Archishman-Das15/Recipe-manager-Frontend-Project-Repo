@@ -48,3 +48,9 @@ Built using **React + TailwindCSS** on the frontend and **FastAPI + MySQL** on t
   "ingredients": "Pasta, Cream, Cheese",
   "instructions": "Boil pasta, mix with cream and cheese."
 }
+
+🧑‍💻 Author
+Archishman Das
+🔹 Developer of Recipe Management System
+🔹 [FastAPI + MySQL + React (Vercel)] Integration
+🔹 Built with ❤️ for clean, modular, real-world learning
